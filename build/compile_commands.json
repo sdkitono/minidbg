@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/samuelkitono/cpp/minidbg/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/samuelkitono/cpp/minidbg/ext/libelfin -I/Users/samuelkitono/cpp/minidbg/ext/linenoise -I/Users/samuelkitono/cpp/minidbg/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/minidbg.dir/src/minidbg.cpp.o -c /Users/samuelkitono/cpp/minidbg/src/minidbg.cpp",
+  "file": "/Users/samuelkitono/cpp/minidbg/src/minidbg.cpp",
+  "output": "CMakeFiles/minidbg.dir/src/minidbg.cpp.o"
+},
+{
+  "directory": "/Users/samuelkitono/cpp/minidbg/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/samuelkitono/cpp/minidbg/ext/libelfin -I/Users/samuelkitono/cpp/minidbg/ext/linenoise -I/Users/samuelkitono/cpp/minidbg/include -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -o CMakeFiles/minidbg.dir/ext/linenoise/linenoise.c.o -c /Users/samuelkitono/cpp/minidbg/ext/linenoise/linenoise.c",
+  "file": "/Users/samuelkitono/cpp/minidbg/ext/linenoise/linenoise.c",
+  "output": "CMakeFiles/minidbg.dir/ext/linenoise/linenoise.c.o"
+},
+{
+  "directory": "/Users/samuelkitono/cpp/minidbg/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/samuelkitono/cpp/minidbg/ext/libelfin -I/Users/samuelkitono/cpp/minidbg/ext/linenoise -I/Users/samuelkitono/cpp/minidbg/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -g -O0 -o CMakeFiles/hello.dir/examples/hello.cpp.o -c /Users/samuelkitono/cpp/minidbg/examples/hello.cpp",
+  "file": "/Users/samuelkitono/cpp/minidbg/examples/hello.cpp",
+  "output": "CMakeFiles/hello.dir/examples/hello.cpp.o"
+},
+{
+  "directory": "/Users/samuelkitono/cpp/minidbg/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/samuelkitono/cpp/minidbg/ext/libelfin -I/Users/samuelkitono/cpp/minidbg/ext/linenoise -I/Users/samuelkitono/cpp/minidbg/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -gdwarf-2 -O0 -o CMakeFiles/variable.dir/examples/variable.cpp.o -c /Users/samuelkitono/cpp/minidbg/examples/variable.cpp",
+  "file": "/Users/samuelkitono/cpp/minidbg/examples/variable.cpp",
+  "output": "CMakeFiles/variable.dir/examples/variable.cpp.o"
+},
+{
+  "directory": "/Users/samuelkitono/cpp/minidbg/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/samuelkitono/cpp/minidbg/ext/libelfin -I/Users/samuelkitono/cpp/minidbg/ext/linenoise -I/Users/samuelkitono/cpp/minidbg/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.3 -g -O0 -o CMakeFiles/unwinding.dir/examples/stack_unwinding.cpp.o -c /Users/samuelkitono/cpp/minidbg/examples/stack_unwinding.cpp",
+  "file": "/Users/samuelkitono/cpp/minidbg/examples/stack_unwinding.cpp",
+  "output": "CMakeFiles/unwinding.dir/examples/stack_unwinding.cpp.o"
+}
+]

@@ -1,0 +1,7 @@
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/minidbg.dir
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/hello.dir
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/variable.dir
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/unwinding.dir
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/libelfin.dir
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/edit_cache.dir
+/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/rebuild_cache.dir

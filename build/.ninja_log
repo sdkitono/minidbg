@@ -1,0 +1,15 @@
+# ninja log v6
+31	68	1721593260676429093	variable	39b039ea33a192b0
+63	394	1721593260708613876	CMakeFiles/minidbg.dir/src/minidbg.cpp.o	aa9e2816d09c9b9f
+4	63	1721593260649984364	CMakeFiles/libelfin	988b3ed18c09ad94
+5	31	1721593260650657574	CMakeFiles/variable.dir/examples/variable.cpp.o	3f562185220825d4
+5	331	1721593260650390365	CMakeFiles/hello.dir/examples/hello.cpp.o	b14575ecef10b2db
+31	69	1721593260676760760	unwinding	ed959d5bd54420ca
+394	424	1721593261039560986	minidbg	39d430693ed8c2b2
+5	31	1721593260650875866	CMakeFiles/unwinding.dir/examples/stack_unwinding.cpp.o	fb323b1a4a89400d
+4	63	1721593260649984364	/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/libelfin	988b3ed18c09ad94
+331	362	1721593260976634172	hello	abdd519ba7b4c745
+63	122	1721593260708871794	CMakeFiles/minidbg.dir/ext/linenoise/linenoise.c.o	b8a8b5bcbcd246f9
+15	73	1721593542477939587	CMakeFiles/libelfin	988b3ed18c09ad94
+15	73	1721593542477939587	/Users/samuelkitono/cpp/minidbg/build/CMakeFiles/libelfin	988b3ed18c09ad94
+73	107	1721593542535479388	minidbg	f29ab2d147b3a73a
